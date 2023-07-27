@@ -27,26 +27,26 @@
   - 資料保護與備援備份機制
   - 弱點掃描、滲透測試
 
-### 資訊安全管理系統
-### 資訊安全風險管理
-### 弱點、攻擊與防護
-#### 弱點與威脅分類
-- 資料蒐集與網路掃描
-- 常見網路掃描工具
-- 資訊安全弱點
-- 弱點公告與弱點資料庫
-- 資訊安全弱點管理
-- 組態設定
-#### 網站/網頁程式安全
-### 開源資安檢測工具
-- Kali Linux
-- Parrot Security OS
-- Wireshark
-- Nmap
-- sqlmap
-- Microsoft Sysinternals
-- Autoruns
-- Process Explorer
-- TCPView
-- VirusTotal
-### 作業安全
+### S1 資訊安全管理系統
+### S2 資訊安全風險管理
+### S3 弱點、攻擊與防護
+#### S301 弱點與威脅分類
+- S30101 資料蒐集與網路掃描
+- S30102 常見網路掃描工具
+- S30103 資訊安全弱點
+- S30104 弱點公告與弱點資料庫
+- S30105 資訊安全弱點管理
+- S30106 組態設定
+#### S302 網站/網頁程式安全
+### S4 開源資安檢測工具
+- S401 Kali Linux
+- S402 Parrot Security OS
+- S403 Wireshark
+- S404 Nmap
+- S405 sqlmap
+- S406 Microsoft Sysinternals
+- S407 Autoruns
+- S408 Process Explorer
+- S409 TCPView
+- S410 VirusTotal
+### S5 作業安全
