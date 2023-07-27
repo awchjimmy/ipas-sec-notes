@@ -31,4 +31,14 @@
 ### 資訊安全風險管理
 ### 弱點、攻擊與防護
 ### 開源資安檢測工具
+- Kali Linux
+- Parrot Security OS
+- Wireshark
+- Nmap
+- sqlmap
+- Microsoft Sysinternals
+- Autoruns
+- Process Explorer
+- TCPView
+- VirusTotal
 ### 作業安全
